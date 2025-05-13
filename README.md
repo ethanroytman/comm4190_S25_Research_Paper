@@ -6,5 +6,6 @@ The second half of the paper focuses on prompt engineering, offering example str
 
 Together, this work shows how LLMs, when carefully prompted and responsibly deployed, could help make telehealth more scalable, patient-centered, and effective.
 
-[Click here to open the final paper](./Final_Paper.ipynb)
+[Click here to open the final paper](./Final%20Paper.ipynb)
+
 
